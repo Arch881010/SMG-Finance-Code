@@ -1,5 +1,8 @@
-RENAME ME and get rid of the TEXT here.
+RENAME ME to "tickerlist" and get rid of the TEXT here and replace with your tickers.
 ticker1, ticker2
 
 or just 
 ticker1
+
+Better Example (after getting rid of this text)
+GOOGL, MSFT
