@@ -1,0 +1,5 @@
+RENAME ME and get rid of the TEXT here.
+ticker1, ticker2
+
+or just 
+ticker1
