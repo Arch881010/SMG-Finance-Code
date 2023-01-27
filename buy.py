@@ -8,4 +8,4 @@ add = open("tickers\\total.txt",'a')
 add.writeLines(f"{tickername.upper()}")
 add.write(f"{tickervalue}")
 add.write(f"{tickershares}")
-
+os.remove(file)

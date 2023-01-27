@@ -1,6 +1,7 @@
 from datetime import datetime as dt
 today = dt.today().strftime('%Y.%m.%d(HR[%H])')
-dataw = open(f'data\\{today}.txt','a')
+file = f'data\\{today}.txt'
+dataw = open(file,'a')
 import os
 global leftover
 def clear():
